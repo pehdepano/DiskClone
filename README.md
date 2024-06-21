@@ -1,3 +1,8 @@
+# DO NOT USE THIS - NÃO USE ESTE REPOSITÓRIO
+
+Clone para testes em ambiente específico e controlado. Quando tiver algum resultado viável, atualizo.
+
+----------ORIGINAL README----------
 ### Raw disk clone tool
 
 A free and open-source raw disk clone tool written in Python. It creates a direct sector by sector block copy. It is able to skip bad sectors. No filesystem inspection is involved, so it is filesystem independent. 
